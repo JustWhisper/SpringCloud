@@ -1,0 +1,20 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
+server:
+  port: 8001
+spring:
+  application:
+    name: zuul-service
+zuul:
+  prefix: /api
+  routes:
+#    api-a:
+#      path: /a/**
+#      serviceId: service-ribbon-1
+    api-b:
+      path: /b/**
+      serviceId: feign-service
+#      stripPrefix: false   #不移除前缀api-b，访问路径为/api/b/test --> user-center   /b/test(需要在对应函数RequestMapping前加/b)
+#      默认时 /api/b/test --> user-center   /test
