@@ -9,4 +9,11 @@ server:
 spring:
   application:
     name: feign-service
+  zipkin:
+    base-url: http://localhost:9000
+  sleuth:
+    sampler:
+      percentage: 1.0
+
+
 
