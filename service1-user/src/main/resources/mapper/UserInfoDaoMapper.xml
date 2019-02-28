@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.springcloud.use.dao.UserInfoDao">
+	<resultMap id="userInfoMap" type="com.springcloud.use.entity.UserInfo">
+		<id property="id" column="id"/>
+		<result property="username" column="username"/>
+		<result property="sex" column="sex"/>
+		<result property="age" column="age"/>
+		<result property="address" column="address"/>
+		<!--<result property="" column=""/>&lt;!&ndash; 头像 &ndash;&gt;-->
+	</resultMap>
+
+	<select id="findOneUserInfo" resultMap="userInfoMap">
+		SELECT * FROM Sys_UserInfo WHERE username = #{username}
+	</select>
+</mapper>

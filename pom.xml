@@ -13,11 +13,11 @@
 		<module>server-auth</module>
 		<module>server-config</module>
 		<module>server-euerka</module>
-		<module>server-use</module>
 		<module>server-zuul</module>
 		<module>server-fegin</module>
 		<module>service1-user</module>
 		<module>service2-user</module>
+		<module>server-zipkin</module>
 	</modules>
 
 	<parent>

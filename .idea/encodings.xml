@@ -7,7 +7,7 @@
     <file url="file://$PROJECT_DIR$/server-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-euerka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-fegin" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/server-use" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service1-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service2-user" charset="UTF-8" />

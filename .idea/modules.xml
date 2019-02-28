@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/server-config/server-config.iml" filepath="$PROJECT_DIR$/server-config/server-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-euerka/server-euerka.iml" filepath="$PROJECT_DIR$/server-euerka/server-euerka.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-fegin/server-fegin.iml" filepath="$PROJECT_DIR$/server-fegin/server-fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-zuul/server-zuul.iml" filepath="$PROJECT_DIR$/server-zuul/server-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/service1-user/service1-user.iml" filepath="$PROJECT_DIR$/service1-user/service1-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/service2-user/service2-user.iml" filepath="$PROJECT_DIR$/service2-user/service2-user.iml" />
