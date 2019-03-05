@@ -11,6 +11,7 @@
         <module name="server-auth" />
         <module name="server-config" />
         <module name="server-euerka" />
+        <module name="server-eureka-peer2" />
         <module name="server-fegin" />
         <module name="server-use" />
         <module name="server-zipkin" />
@@ -25,6 +26,7 @@
       <module name="server-auth" target="1.6" />
       <module name="server-config" target="1.6" />
       <module name="server-euerka" target="1.6" />
+      <module name="server-eureka-peer2" target="1.6" />
       <module name="server-fegin" target="1.6" />
       <module name="server-use" target="1.6" />
       <module name="server-zipkin" target="1.6" />

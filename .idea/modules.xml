@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/server-auth/server-auth.iml" filepath="$PROJECT_DIR$/server-auth/server-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-config/server-config.iml" filepath="$PROJECT_DIR$/server-config/server-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-euerka/server-euerka.iml" filepath="$PROJECT_DIR$/server-euerka/server-euerka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-eureka-peer2/server-eureka-peer2.iml" filepath="$PROJECT_DIR$/server-eureka-peer2/server-eureka-peer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-fegin/server-fegin.iml" filepath="$PROJECT_DIR$/server-fegin/server-fegin.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/server-zuul/server-zuul.iml" filepath="$PROJECT_DIR$/server-zuul/server-zuul.iml" />
