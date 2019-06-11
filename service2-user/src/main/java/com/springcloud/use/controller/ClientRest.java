@@ -7,7 +7,7 @@ import java.io.IOException;
 
 @RestController
 public class ClientRest {
-	@RequestMapping("/test")
+	@RequestMapping("/test2")
 	public String test()throws IOException{
 		return "test2";
 	}
